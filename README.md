@@ -44,10 +44,9 @@ python MoodPlaylistMain.py
 ```
 MoodPlaylists/
 │── MoodPlaylistMain.py  # Main script to run the program
-│── sentiment_analyzer.py  # Handles mood analysis
+│── sentiment_analysis.py  # Handles mood analysis
 │── spotify_client.py  # Manages Spotify API interactions
 │── playlist_creator.py  # Generates playlists & names
-│── requirements.txt  # List of required dependencies
 │── README.md  # Documentation (this file)
 ```
 
