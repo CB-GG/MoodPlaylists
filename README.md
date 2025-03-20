@@ -20,7 +20,7 @@ It uses:
 ### 1️⃣ Install Required Packages
 Run the following command to install all dependencies:
 ```sh
-pip install -r requirements.txt
+pip install spotipy requests ollama
 ```
 
 ### 2️⃣ Set Up Spotify API Credentials
